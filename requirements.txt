@@ -1,6 +1,5 @@
-streamlit as st
-pandas as pd
+streamlit
+pandas
 folium
 streamlit_folium
-os
 json
